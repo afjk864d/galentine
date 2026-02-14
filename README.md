@@ -53,9 +53,9 @@ In `index.html`, find the memory cards section and modify the text and emojis:
 Modify the CSS variables in the `<style>` section:
 ```css
 :root {
-    --pink-primary: #FFADCB;
-    --pink-dark: #FF85B3;
-    --lavender: #D4C1EC;
+    --maroon: #FFADCB;
+    --white : #FF85B3;
+    --lavender : #D4C1EC;
     --cream: #FFF9FB;
     --text-color: #7A5C61;
 }
