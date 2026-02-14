@@ -1,4 +1,4 @@
-# 💖 Will You Be My Galentine?
+# 💖 Will You Be My Valentine??
 
 An interactive, romantic web experience to ask someone to be your Galentine! This project is a beautifully designed single-page application with smooth animations, heartfelt memories, and a fun interactive "No" button that evades clicks.
 
@@ -109,4 +109,4 @@ Feel free to use and customize this for your special someone! 💕
 
 ---
 
-Made with 💖 for asking that special person to be your Galentine!
+
